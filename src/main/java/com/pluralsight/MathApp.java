@@ -11,5 +11,12 @@ public class MathApp {
 int bobSalary = 45000;
 int garySalary = 80000;
         System.out.println(Math.max(45000,80000));
+        int max = 80000;
+        System.out.println("The highest salary is 80000");
+
+float carprice;
+float truckPrice;
+
+
     }
 }
