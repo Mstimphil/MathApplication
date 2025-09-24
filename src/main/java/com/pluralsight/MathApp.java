@@ -14,8 +14,10 @@ int garySalary = 80000;
         int max = 80000;
         System.out.println("The highest salary is 80000");
 
-float carprice;
-float truckPrice;
+double carprice = 54.79;
+double truckPrice = 567.00;
+        System.out.println(Math.min(54.79, 567.00));
+
 
 
     }
